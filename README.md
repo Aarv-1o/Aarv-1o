@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Aarv&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Products%20%7C%20CRE%20Tech%20%7C%20Dev%20Tools&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+Automation+Agency+Founder;CRE+Tech+Builder;VS+Code+Extension+Author;ML+Workbench+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Builder.;GitNomad+—+Code+from+anywhere.;Zextiria+AI+—+ML+for+everyone.;Agentic+AI+—+Automate+everything.)](https://git.io/typing-svg)
 
 </div>
 
