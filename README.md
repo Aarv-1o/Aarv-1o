@@ -114,10 +114,6 @@ I build at the intersection of **AI, automation, and developer tools** — from 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarv-1o&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarv-1o&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff" height="165"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarv-1o&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=6366f1&fire=f59e0b&currStreakLabel=ffffff&sideLabels=ffffff&dates=6b7280" width="500"/>
