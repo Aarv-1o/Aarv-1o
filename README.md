@@ -110,16 +110,6 @@ I build at the intersection of **AI, automation, and developer tools** — from 
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarv-1o&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=6366f1&fire=f59e0b&currStreakLabel=ffffff&sideLabels=ffffff&dates=6b7280" width="500"/>
-</div>
-
----
 
 ## 🤝 Connect
 
