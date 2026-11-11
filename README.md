@@ -1,6 +1,6 @@
-I'm Aarv. I build developer tools and AI automation, mostly in TypeScript and Python.
+<img src="assets/banner.svg" alt="Aarv — developer tools and AI automation" width="100%"/>
 
-Most of my time right now goes to Attentry.
+I build developer tools and AI automation, mostly in TypeScript and Python.
 
 ---
 
@@ -15,9 +15,11 @@ A VS Code extension and Claude Code plugin that checks every edit Claude Code ma
 - Copied and unused code show up at check-ins, and in a summary at the end
 - Runs locally with no AI, so a clean edit costs zero tokens
 
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/attentry.attentry?style=flat-square&label=installs&color=007acc)](https://marketplace.visualstudio.com/items?itemName=attentry.attentry)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/attentry.attentry?style=flat-square&label=installs&color=1f6f5c&labelColor=0d2a23)](https://marketplace.visualstudio.com/items?itemName=attentry.attentry)
+[![Open VSX](https://img.shields.io/open-vsx/dt/attentry/attentry?style=flat-square&label=open%20vsx&color=1f6f5c&labelColor=0d2a23)](https://open-vsx.org/extension/attentry/attentry)
+[![License](https://img.shields.io/badge/license-MIT-e9a93c?style=flat-square&labelColor=0d2a23)](https://github.com/Aarv-1o/Attentry)
 
-Free and open source (MIT). Works in VS Code, Cursor and Windsurf.
+Works in VS Code, Cursor and Windsurf.
 
 [Site](https://attentry.js.org) · [Repo](https://github.com/Aarv-1o/Attentry) · [Demo](https://github.com/Aarv-1o/attentry-demo) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=attentry.attentry) · [Open VSX](https://open-vsx.org/extension/attentry/attentry)
 
@@ -50,7 +52,7 @@ A VS Code extension. Edit code on your phone, and the changes land on your deskt
 - Conflicts get reviewed hunk by hunk on the phone
 - Android app on Google Play, in testing
 
-[Marketplace](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/gitnomad.gitnomad-desktop?style=flat-square&label=installs&color=1f6f5c&labelColor=0d2a23)](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
 
 ---
 
