@@ -2,11 +2,13 @@
 
 I build developer tools and AI automation, mostly in TypeScript and Python.
 
+Zextiria AI is my company. It makes Zextiria Rooms, AgentinFlow and GitNomad. Attentry is separate, and open source.
+
 ---
 
 ## Projects
 
-### [Attentry](https://attentry.js.org)
+### <img src="assets/logo-attentry.svg" width="20" align="top"/> [Attentry](https://attentry.js.org)
 
 A VS Code extension and Claude Code plugin that checks every edit Claude Code makes.
 
@@ -23,34 +25,36 @@ Works in VS Code, Cursor and Windsurf.
 
 [Site](https://attentry.js.org) · [Repo](https://github.com/Aarv-1o/Attentry) · [Demo](https://github.com/Aarv-1o/attentry-demo) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=attentry.attentry) · [Open VSX](https://open-vsx.org/extension/attentry/attentry)
 
-### [AgentinFlow](https://www.agentinflow.com)
+### <img src="assets/logo-agentinflow.png" width="20" align="top"/> [AgentinFlow](https://www.agentinflow.com)
 
-An AI automation agency in India. We build AI agents and n8n workflows for business operations.
+An AI automation studio. We build what you ask.
 
-- Saves clients 20+ hours a week
-- Cuts manual tasks by 90%
-- Custom agent pipelines that plug into the tools and databases a client already uses
+- Websites and apps, built to your brief
+- Agents that take on the repetitive work a team does by hand
+- n8n workflows that move data between the tools you already run
+- Saves clients 20+ hours a week, and cuts manual tasks by 90%
 
 [agentinflow.com](https://www.agentinflow.com)
 
-### [Zextiria](https://zextiriaai.com)
+### <img src="assets/logo-zextiria.png" width="20" align="top"/> [Zextiria Rooms](https://www.zextiriaai.com)
 
-A no-code ML workbench. Train a model on your own data without writing code.
+Shared project rooms where an AI drafts and the client approves. The product Zextiria AI is betting on.
 
-- Build and train custom models from your own datasets
-- See how a model behaves without touching code
-- Made for teams with no one to spare for ML
+- Invite the other side with one link. No account to create, no org to join
+- Everyone brings their own agent over MCP — Claude Code, Cursor, Codex, Antigravity
+- An agent proposes. Nothing lands in the document until a person signs it
+- Every change keeps its record: who asked, whose agent wrote it, who approved
 
-[zextiriaai.com](https://zextiriaai.com)
+[zextiriaai.com](https://www.zextiriaai.com)
 
-### [GitNomad](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
+### <img src="assets/logo-gitnomad.png" width="20" align="top"/> [GitNomad](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
 
-A VS Code extension. Edit code on your phone, and the changes land on your desktop.
+A mobile editor for the project on your computer. Edit a file on the bus and it lands on your desktop as a git commit.
 
-- Two-way live sync, including unsaved drafts
-- Run terminal commands from your phone and watch the output stream back
-- Conflicts get reviewed hunk by hunk on the phone
-- Android app on Google Play, in testing
+- Two-way sync: phone edits become commits, desktop edits show up on the phone
+- Start a command from your phone and watch the output stream back
+- The git repo on your computer stays the source of truth
+- Android app on Google Play, plus a VS Code extension for the desktop side
 
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/gitnomad.gitnomad-desktop?style=flat-square&label=installs&color=1f6f5c&labelColor=0d2a23)](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
 
@@ -64,4 +68,4 @@ TypeScript, JavaScript, Python, Node.js, C#, n8n, and a lot of VS Code extension
 
 ## Elsewhere
 
-[aarv.is-a.dev](https://aarv.is-a.dev/) · [AgentinFlow](https://www.agentinflow.com) · [Zextiria](https://zextiriaai.com) · [GitNomad](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop) · [aarvsinghchauhan@gmail.com](mailto:aarvsinghchauhan@gmail.com)
+[aarv.is-a.dev](https://aarv.is-a.dev/) · [Zextiria AI](https://www.zextiriaai.com) · [AgentinFlow](https://www.agentinflow.com) · [GitNomad](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop) · [aarvsinghchauhan@gmail.com](mailto:aarvsinghchauhan@gmail.com)
