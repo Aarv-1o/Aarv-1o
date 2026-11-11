@@ -1,134 +1,65 @@
-<div align="center">
+I'm Aarv. I build developer tools and AI automation, mostly in TypeScript and Python.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Aarv&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Products%20%7C%20CRE%20Tech%20%7C%20Dev%20Tools&descAlignY=55&descSize=18" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Builder.;GitNomad+—+Code+from+anywhere.;Zextiria+AI+—+ML+for+everyone.;Agentic+AI+—+Automate+everything.)](https://git.io/typing-svg)
-
-</div>
+Most of my time right now goes to Attentry.
 
 ---
 
-## 🚀 About Me
+## Projects
 
-I build at the intersection of **AI, automation, and developer tools** — from CRE tech to no-code ML platforms to mobile-first dev workflows.
+### [Attentry](https://attentry.js.org)
 
-- 🤖 Running **AgentinFlow** — an AI automation agency in India
-- 🏢 Building **EscrowsAI** — the AI-powered CRM for commercial real estate brokers  
-- 🧠 Developing **Zextiria** — a no-code ML workbench  
-- 📱 Shipped **GitNomad** — edit code from your phone, run it on your desktop
-- 📍 Based in **India** | Open to global collaborations
+A VS Code extension and Claude Code plugin that checks every edit Claude Code makes.
 
----
+- After an edit, it tells Claude about the security holes and crash risks that edit added, so Claude fixes them right away
+- Before Claude writes a helper, it points to the one the repo already has
+- Copied and unused code show up at check-ins, and in a summary at the end
+- Runs locally with no AI, so a clean edit costs zero tokens
 
-## 🏗️ Projects
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/attentry.attentry?style=flat-square&label=installs&color=007acc)](https://marketplace.visualstudio.com/items?itemName=attentry.attentry)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Free and open source (MIT). Works in VS Code, Cursor and Windsurf.
 
-### 🤖 [AgentinFlow](https://www.agentinflow.com)
-**AI Automation Agency · India**
+[Site](https://attentry.js.org) · [Repo](https://github.com/Aarv-1o/Attentry) · [Demo](https://github.com/Aarv-1o/attentry-demo) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=attentry.attentry) · [Open VSX](https://open-vsx.org/extension/attentry/attentry)
 
-> AI agents, N8N workflows, and custom automation solutions that work 24/7.
+### [AgentinFlow](https://www.agentinflow.com)
 
-- ⚡ Saves clients **20+ hours/week** via intelligent automation
-- 🔗 Custom **AI agent pipelines** for business operations
-- 🌐 Seamless integration with existing tools & databases
-- 📉 90% reduction in manual tasks for clients
+An AI automation agency in India. We build AI agents and n8n workflows for business operations.
 
-[![Website](https://img.shields.io/badge/Website-agentinflow.com-6366f1?style=flat-square&logo=globe&logoColor=white)](https://www.agentinflow.com)
+- Saves clients 20+ hours a week
+- Cuts manual tasks by 90%
+- Custom agent pipelines that plug into the tools and databases a client already uses
 
-</td>
-<td width="50%" valign="top">
+[agentinflow.com](https://www.agentinflow.com)
 
-### 🏢 [EscrowsAI](https://escrowsai.com)
-**AI-Powered CRM · Commercial Real Estate**
+### [Zextiria](https://zextiriaai.com)
 
-> Never miss a follow-up again — the CRM built for CRE brokers.
+A no-code ML workbench. Train a model on your own data without writing code.
 
-- 📊 Manage deals & track conversations end-to-end
-- 🤖 AI-powered **automated outreach** & follow-up engine
-- 📄 Seamless document management for escrow workflows
-- 🎯 Close deals faster with AI-driven insights
+- Build and train custom models from your own datasets
+- See how a model behaves without touching code
+- Made for teams with no one to spare for ML
 
-[![Website](https://img.shields.io/badge/Website-escrowsai.com-10b981?style=flat-square&logo=globe&logoColor=white)](https://escrowsai.com)
+[zextiriaai.com](https://zextiriaai.com)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### [GitNomad](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
 
-### 🧠 [Zextiria](https://zextiriaai.com)
-**No-Code ML Workbench**
+A VS Code extension. Edit code on your phone, and the changes land on your desktop.
 
-> Build, train, and understand ML models from your own data — no code required.
+- Two-way live sync, including unsaved drafts
+- Run terminal commands from your phone and watch the output stream back
+- Conflicts get reviewed hunk by hunk on the phone
+- Android app on Google Play, in testing
 
-- 🗃️ Train custom ML models on **your own datasets**
-- 🔍 Understand model behaviour without writing code
-- 🚀 End-to-end ML pipeline in a visual interface
-- 🌐 Accessible to non-technical teams
-
-[![Website](https://img.shields.io/badge/Website-zextiriaai.com-f59e0b?style=flat-square&logo=globe&logoColor=white)](https://zextiriaai.com)
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 [GitNomad](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
-**VS Code Extension · Mobile Git Sync**
-
-> Edit on your phone — the changes land on your desktop.
-
-- 📲 Edit files on your **phone**, commits land in VS Code
-- 🖥️ Run terminal commands **from your phone** — output streams back
-- 🔄 **Two-way live sync** — even unsaved drafts
-- 🛡️ Safe conflict resolution with per-hunk phone review
-- 🤖 Android app on **Google Play** (currently in testing)
-
-[![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/gitnomad.gitnomad-desktop?style=flat-square&label=VS%20Marketplace&logo=visualstudiocode&logoColor=white&color=007acc)](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/gitnomad.gitnomad-desktop?style=flat-square&logo=visualstudiocode&logoColor=white&color=007acc)](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
-
-</td>
-</tr>
-</table>
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML%2FAI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/AgentinFlow-6366f1?style=for-the-badge&logo=globe&logoColor=white)](https://www.agentinflow.com)
-[![EscrowsAI](https://img.shields.io/badge/EscrowsAI-10b981?style=for-the-badge&logo=globe&logoColor=white)](https://escrowsai.com)
-[![Zextiria](https://img.shields.io/badge/Zextiria-f59e0b?style=for-the-badge&logo=globe&logoColor=white)](https://zextiriaai.com)
-[![GitNomad](https://img.shields.io/badge/GitNomad-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarvsinghchauhan@gmail.com)
-
-</div>
+TypeScript, JavaScript, Python, Node.js, C#, n8n, and a lot of VS Code extension work.
 
 ---
 
-<div align="center">
+## Elsewhere
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aarv-1o.Aarv-1o)
-
-</div>
+[aarv.is-a.dev](https://aarv.is-a.dev/) · [AgentinFlow](https://www.agentinflow.com) · [Zextiria](https://zextiriaai.com) · [GitNomad](https://marketplace.visualstudio.com/items?itemName=gitnomad.gitnomad-desktop) · [aarvsinghchauhan@gmail.com](mailto:aarvsinghchauhan@gmail.com)
